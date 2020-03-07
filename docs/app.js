@@ -1,10 +1,10 @@
 var pics = [
-	"kitty_bed.jpg",
-	"kitty_basket.jpg", 
-	"kitty_laptop.jpg",
-	"kitty_door.jpg",
-	"kitty_sink.jpg",
-	"kitty_wall.jpg"
+	"images/kitty_bed.jpg",
+	"images/kitty_basket.jpg", 
+	"images/kitty_laptop.jpg",
+	"images/kitty_door.jpg",
+	"images/kitty_sink.jpg",
+	"images/kitty_wall.jpg"
 ]
 
 var buttonToChangeimage = document.querySelector("button");
