@@ -5,7 +5,7 @@ var pics = [
 	"images/kitty_door.jpg",
 	"images/kitty_sink.jpg",
 	"images/kitty_wall.jpg"
-]
+];
 
 var buttonToChangeimage = document.querySelector("button");
 var image = document.querySelector("img");
