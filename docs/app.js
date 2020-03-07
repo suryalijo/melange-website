@@ -1,9 +1,9 @@
 var pics = [
-	"images/kitty_bed.jpg",
-	"images/kitty_basket.jpg", 
+	"images/kitty_bed.JPG",
+	"images/kitty_basket.JPG", 
 	"images/kitty_laptop.jpg",
 	"images/kitty_door.jpg",
-	"images/kitty_sink.jpg",
+	"images/kitty_sink.JPG",
 	"images/kitty_wall.jpg"
 ];
 
